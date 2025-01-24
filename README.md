@@ -45,7 +45,7 @@
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
 
-<br/>
+
 
 ###
 <p align="center"> 
@@ -306,4 +306,4 @@ public class CodeBite {
 </div>
 <img src="https://github.com/Genesis-gen
 /Genesis-gen
-/blob/master/line-neon.gif" width="100%"> 
+/blob/master/line-neon.gif" width="100%">   
