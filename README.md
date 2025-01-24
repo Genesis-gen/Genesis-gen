@@ -1,19 +1,12 @@
 
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
-
-
-
 <p align="center">
   <a href="www.google.com" target="_blank">
         <p align="center">
     <img alt="Coding" width="200" src="https://media1.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif?cid=ecf05e47czcc532765ws5oumsyflmrr3l84ahc8wpu2orb87&ep=v1_gifs_related&rid=giphy.gif&ct=s">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-    <a href="www.google.com" target="_blank">
-        <img src="https://github-widgetbox.vercel.app/api/profile?username=Genesis-gen
-&data=followers,repositories,stars,commits&theme=dark" alt="GitHub WidgetBox" width="90%" height="0%">
-    </a>
-
+  
 <p align="center"><a href="https://github.com/Genesis-gen
 "><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
 
@@ -51,32 +44,6 @@
 ### 
 <p align="center"> 
  🅥🅘🅢🅘🅣🅞🅡 🅒🅞🅤🅝🅣<br>
-  <img src="https://profile-counter.glitch.me/Genesis-gen
-/count.svg"/>
-  </p>
-
-
-<p align="center"> 
-<img align="center" width="500px" src="@/../page-insights.svg" alt="Github Insight"/>
-</p>  
-  
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Genesis-gen
-&theme=gotham&layout=compact"width="40%"/> 
-</p>
-
-<p align="center">
-<a href="https://github.com/Genesis-gen
-?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=Genesis-gen
-&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@Genesis-gen
-'s github-readme-stats"/></a>
-<a href="https://github.com/Genesis-gen
-?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=Genesis-gen
-&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
-</p>
-
-
-</p>
 
 <br/>
 
@@ -245,27 +212,6 @@
 <br><br>
 </table>
 
-
-<p align="center">
-    <a href="www.google.com/">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Genesis-gen
-&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
-    </a>
-</p>
-
-
-
-<p align="center">
-    <a href="https://github.com/Genesis-gen
-/Genesis-gen
-">
-        <img src="https://github-profile-trophy.vercel.app/?username=Genesis-gen
-&column=-1&theme=dracula&layout=compact"width="95%"/> 
-</p>
-
-
-
-
 ---
 <div align="center">
 
@@ -338,62 +284,17 @@ public class CodeBite {
 
 <div align="center">
     <i style="font-size: 10px;">
-        "Don't ever let somebody tell you, you can't do something! <br><b>You got a dream… You gotta protect it</b>.<br> People can’t do something themselves, they wanna tell you you can’t do it. <br><b>If you want something, go get it. Period</b>"
+        
+"Don’t let doubt or fear hold you back!
+<br><b>You have the power to shape your own future</b>.
+<br>Challenges will come, but they’re just stepping stones to greatness.
+<br><b>Stay focused, stay determined, and make it happen</b>."
     </i>
 </div>
 
 ####
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
- <p align="center">
-  <a href="www.google.com/" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/Man%20Bouncing%20Ball%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="www.google.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Genesis-gen
-/Genesis-gen
-/master/Soccer%20Ball.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="www.google.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/Genesis-gen
-/Genesis-gen
-/master/Video%20Game.webp" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="www.google.com" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/Musical%20Notes.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-
-  <a href="www.google.com" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="www.google.com" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/globe.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="www.google.com" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/book.gif?raw=true" alt="Azure" width="40" height="40" />
-  </a>
-  <a href="www.google.com" target="_blank">
-    <img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/music.gif?raw=true" alt="Azure" width="40" height="40"" />
-  </a>
-  
- </p>
-
-
 
 <p>
 
@@ -401,13 +302,6 @@ public class CodeBite {
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=20C20E&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 </p> 
 
-
-<div align="center">
-
-<img height="30" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/Genesis-gen
-/Genesis-gen
-/4e5ce489049524edd0a06dcd2fa32edc080b56eb/thankyou%20RJ.svg" />
-<br />
 <div align="center">
 </div>
 <img src="https://github.com/Genesis-gen
