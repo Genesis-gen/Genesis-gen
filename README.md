@@ -311,8 +311,7 @@ public class CodeBite {
 /blob/master/line-neon.gif" width="100%">   
 
 ---
-## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genesis-gen&show_icons=true&theme=radical)
+
 
 
 ---
