@@ -296,6 +296,10 @@ public class CodeBite {
 ####
 <br clear="both">
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
+---
+## 📊 **GitHub Stats**
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genesis-gen/Genesis&show_icons=true&theme=radical)
+---
 
 <p>
 
@@ -308,3 +312,4 @@ public class CodeBite {
 <img src="https://github.com/Genesis-gen
 /Genesis-gen
 /blob/master/line-neon.gif" width="100%">   
+
