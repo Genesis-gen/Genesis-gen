@@ -311,7 +311,7 @@ public class CodeBite {
 /blob/master/line-neon.gif" width="100%">   
 
 ---
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iiiii0vicky0-0singh0iiiii&theme=juicyfresh" alt="iiiii0vicky0-0singh0iiiii" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Genesis-gen&theme=juicyfresh" alt="Genesis-gen" /></a> </p>
 
 
 
