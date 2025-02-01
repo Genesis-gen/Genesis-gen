@@ -298,7 +298,7 @@ public class CodeBite {
 <p align="center">🅰🅲🆃🅸🆅🅸🆃🅸🅴🆂</p>
 ---
 ## 📊 **GitHub Stats**
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genesis-gen/Genesis-gen&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username = Genesis-gen &show_icons=true&theme=radical)
 ---
 
 <p>
