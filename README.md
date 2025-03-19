@@ -16,14 +16,12 @@
 /blob/master/code.gif?raw=true" height="20"</h3>
 
 <p align="center"><a href="https://github.com/Genesis-gen
-"><img src="https://github.com/Genesis-gen
-/Genesis-gen
-/blob/master/277383089-1632db93-5d88-408c-aa7a-3be102febcd3.gif" alt="Animated footer bars" width="100%"/></a></p>                                                                    
+">                                                               
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+जेनेसिस+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=¦+Genesis+¦&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=12" />
 
 
-<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+तप+त्याग+तांडव+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
+<img src="https://readme-typing-svg.demolab.com?font=Architects+Daughter&amp;color=ff0000&amp;size=15&amp;lines=।।+gen+।।&&%20Code&center=true&width=440&height=18&vCenter=true&pause=1000&size=15" />
 
 
 <a href="https://github.com/Genesis-gen
